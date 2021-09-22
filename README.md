@@ -23,11 +23,11 @@ Sort.BubbleSort(array1, (lhs, rhs)=>{return lhs > rhs;});
 
 ### Currently Implemented Sort Algorithms:
 
-- Bubble Sort ( `O(n\u00B2)` time and `O(1)` space )
-- Selection Sort ( `O(n\u00B2)` time and `O(1)` space )
-- Insertion Sort ( `O(n\u00B2)` time and `O(1)` space )
-- Merge Sort (`O(n log n)` time and `O(n)` space )
-- Quick Sort (Time Complexity: Worst case: `O(n\u00B2)`, Best Case: `O(n)`, On  Average: `O(n log n)`. Space Complexity: `O(1)`)
+- Bubble Sort ( O(n<sup>2</sup> time and O(1) space )
+- Selection Sort ( O(n\u00B2) time and O(1) space )
+- Insertion Sort ( O(n\u00B2) time and O(1) space )
+- Merge Sort (O(n log n) time and O(n) space )
+- Quick Sort (Time Complexity: Worst case: O(n\u00B2), Best Case: O(n), On  Average: O(n log n). Space Complexity: O(1))
 
 ## To Run
 There's some driver code in ``driver.js``. If you have ``node.js`` installed, you can easily run using:
